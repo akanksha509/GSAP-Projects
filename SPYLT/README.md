@@ -4,7 +4,7 @@ A modern React website for SPYLT protein drinks featuring smooth GSAP animations
 
 ## Demo
 
-**Live Demo:** (https://gsap-projects-omega.vercel.app/)
+**Live Demo:** [SPYLT](https://gsap-projects-omega.vercel.app/)
 
 > Experience the full interactive animations and smooth scrolling effects in the live demo!
 
