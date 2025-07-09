@@ -2,7 +2,7 @@
 
 A cutting-edge interactive portfolio website featuring immersive 3D animations, smooth scrolling effects, and interactive elements powered by GSAP. Built with React and Tailwind CSS.
 
-**Live Demo:** (https://zentry-interactive.vercel.app)
+**Live Demo:** [Zentry](https://gsap-projects-wcor.vercel.app/)
 
 > Experience the full interactive animations and 3D effects in the live demo!
 
